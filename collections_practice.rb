@@ -21,5 +21,5 @@ def kesha_maker
 end
 
 def find_a(string)
-  fistring.start_with?("a")
+  if string.match(/^a)
 end
