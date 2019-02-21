@@ -16,3 +16,10 @@ end
 def reverse_array(integers)
   integers.reverse
 end
+
+def kesha_maker
+end
+
+def find_a(string)
+  string.start_with?("a")
+end
