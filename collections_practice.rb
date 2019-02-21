@@ -7,5 +7,5 @@ def sort_array_desc(integers)
 end
 
 def sort_array_char_count(string)
-  string.length.sort
+  string.length.sort_by!
 end
