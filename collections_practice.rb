@@ -23,3 +23,4 @@ end
 def find_a(string)
   if string.match(/^a)
 end
+end
